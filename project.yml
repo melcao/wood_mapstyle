@@ -9,9 +9,9 @@ bounds:
   - 180
   - 85.0511
 center: 
-  - -87.2314
-  - 40.1957
-  - 5
+  - -80.8154
+  - 35.2362
+  - 12
 description: To be printed on iPhone cases
 format: "png8:m=h:c=128"
 interactivity_layer: ''

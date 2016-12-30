@@ -4,7 +4,7 @@
 
 <Parameters>
   <Parameter name="bounds">-180,-85.0511,180,85.0511</Parameter>
-  <Parameter name="center">-102.7441,43.2292,4</Parameter>
+  <Parameter name="center">-87.2314,40.1957,5</Parameter>
   <Parameter name="description"><![CDATA[To be printed on iPhone cases]]></Parameter>
   <Parameter name="format">png8:m=h:c=128</Parameter>
   <Parameter name="maxzoom">21</Parameter>

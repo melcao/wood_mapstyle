@@ -1,0 +1,27 @@
+_prefs: 
+  mapid: aquablib.ddd0549e
+  saveCenter: true
+_properties: {}
+attribution: ''
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -102.7441
+  - 43.2292
+  - 4
+description: To be printed on iPhone cases
+format: "png8:m=h:c=128"
+interactivity_layer: ''
+layers: null
+maxzoom: 21
+minzoom: 0
+name: dark
+source: "mapbox:///mapbox.mapbox-terrain-v1,mapbox.mapbox-streets-v5,mapbox.mapbox-bathymetry-v1"
+styles: 
+  - style.mss
+  - road.mss
+  - terrain.mss
+template: ''
